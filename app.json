@@ -170,7 +170,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands {pp}```Owner : wa.me/+917560831917```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands {pp}```Owner : https://wa.me/+917560831917```"
         },
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",
