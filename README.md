@@ -20,7 +20,7 @@
 5. Now https://heroku.com/deploy?template=https://github.com/Adithyan-Kochi/RICKY-MWOL copy this url and change Adithyan-Kochi with your github username and click go<br>
 ## 1. join what's app [bot] group 
 <br>
-<a href="https://chat.whatsapp.com/JPh6rmkqbuo2wdAXvKd7Jn"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-red?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+<a href="https://chat.whatsapp.com/LhVZI1PeWCEF6cMx7CQCfW"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-red?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
    <br> 
 
 ## 2. Bot is not allowed here
