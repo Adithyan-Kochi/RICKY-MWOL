@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Adithyan-Kochi/RICKY-MWOL/master/Its-me-liza-mwol.gif" alt="RICKY MWOL" />
+  <img src="https://raw.githubusercontent.com/Adithyan-Kochi/RICKY-MWOL/master/Its-me-Ricky-mwol.gif" alt="RICKY MWOL" />
 </h1>
   
 ## Setup
